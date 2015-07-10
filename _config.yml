@@ -8,10 +8,11 @@ description: "Xin Yu's personal page"
 contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
+#http://www.color-hex.com/color-palette/185
 color:
-  primary: b073c6
-  secondary: 7800a3
-  secondary-dark: 9b59b3
+  primary: 8b9dc3
+  secondary: 3b5998 #darker
+  secondary-dark: 555555 
 
 # Footer settings
 footer:
